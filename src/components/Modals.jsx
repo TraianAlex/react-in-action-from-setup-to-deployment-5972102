@@ -1,5 +1,6 @@
 import Arrow from './icons/Arrow';
 import { buttonStyle } from './InterfaceStyles';
+
 function Modals({ member, handleClose, handleChange }) {
   return (
     (member &&

@@ -1,5 +1,4 @@
 function ListCast({ cast, onChoice }) {
-
   return (
     <div style={{
       display: "grid",
